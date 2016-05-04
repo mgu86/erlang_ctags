@@ -45,7 +45,10 @@ For Vim, update the Tagbar configurationtagbar.vim, for the Erlang language:
 Launch Vim, open an Erlang file, open your Tagbar panel, and appreciate.
 
 Note: functions with a green "+" are exported. If they are preceeded by a red "-", then it is not exported.
+<<<<<<< HEAD
  
 
 ![Alt text](/erlang_tagbar.png?raw=true "Tagbar for Erlang")
+=======
+>>>>>>> d60e6cf1b57aa890312d77192326b8bb4fe10bb9
 
